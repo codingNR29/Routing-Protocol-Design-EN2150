@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Predictive Link-State Routing (PLSR) Simulation Files
 
 This folder contains the simulation source code and generated evidence files for the EN2150 Routing Protocol Design report.
@@ -74,16 +74,6 @@ Expected behavior:
 4. `figures/control_overhead.png` — control-plane overhead comparison.
 5. `figures/security_verification.png` — HMAC verification result.
 
-## LaTeX Figure Example
-
-```latex
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=0.85\textwidth]{figures/latency_comparison.png}
-    \caption{End-to-end latency comparison between standard OSPF and proposed PLSR.}
-    \label{fig:latency-comparison}
-\end{figure}
-```
 =======
 # Predictive Link-State Routing (PLSR)
 
@@ -134,4 +124,3 @@ Smoothed latency
 Latency deviation from baseline
 Latency trend
 Packet loss penalty
->>>>>>> 2e48cd7b1915a1f11e84d08dbf30eaa5ed5b845f
