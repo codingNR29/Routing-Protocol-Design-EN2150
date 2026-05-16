@@ -18,21 +18,19 @@ The proposed protocol is **Predictive Link-State Routing (PLSR)**. It improves s
 
 ```text
 PLSR_Project_Files/
-├── README.md
-├── requirements.txt
-├── plsr_simulation.py
-├── src/
-│   └── plsr_simulation.py
 ├── figures/
 │   ├── topology_diagram.png
 │   ├── latency_comparison.png
 │   ├── pdr_comparison.png
 │   ├── control_overhead.png
 │   └── security_verification.png
+├── src/
+│   └── plsr_simulation.py
 └── results/
     ├── simulation_log.txt
     ├── simulation_summary.csv
     └── console_output.txt
+├── README.md
 ```
 
 ## How to Run
