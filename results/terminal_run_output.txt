@@ -1,0 +1,25 @@
+t=01: OSPF ['R0', 'R1', 'R3'] latency=20.0 ms | PLSR ['R0', 'R1', 'R3'] latency=20.0 ms
+t=02: OSPF ['R0', 'R1', 'R3'] latency=20.0 ms | PLSR ['R0', 'R1', 'R3'] latency=20.0 ms
+t=03: OSPF ['R0', 'R1', 'R3'] latency=20.0 ms | PLSR ['R0', 'R1', 'R3'] latency=20.0 ms
+t=04: OSPF ['R0', 'R1', 'R3'] latency=25.0 ms | PLSR ['R0', 'R1', 'R3'] latency=25.0 ms
+t=05: OSPF ['R0', 'R1', 'R3'] latency=30.0 ms | PLSR ['R0', 'R1', 'R3'] latency=30.0 ms
+t=06: OSPF ['R0', 'R1', 'R3'] latency=35.0 ms | PLSR ['R0', 'R1', 'R3'] latency=35.0 ms
+t=07: OSPF ['R0', 'R1', 'R3'] latency=40.0 ms | PLSR ['R0', 'R2', 'R3'] latency=50.0 ms
+t=08: OSPF ['R0', 'R1', 'R3'] latency=45.0 ms | PLSR ['R0', 'R2', 'R3'] latency=50.0 ms
+t=09: OSPF ['R0', 'R1', 'R3'] latency=50.0 ms | PLSR ['R0', 'R2', 'R3'] latency=50.0 ms
+t=10: OSPF ['R0', 'R1', 'R3'] latency=55.0 ms | PLSR ['R0', 'R2', 'R3'] latency=50.0 ms
+t=11: OSPF ['R0', 'R1', 'R3'] latency=60.0 ms | PLSR ['R0', 'R2', 'R3'] latency=50.0 ms
+t=12: OSPF ['R0', 'R1', 'R3'] latency=65.0 ms | PLSR ['R0', 'R2', 'R3'] latency=50.0 ms
+t=13: OSPF ['R0', 'R1', 'R3'] latency=70.0 ms | PLSR ['R0', 'R2', 'R3'] latency=50.0 ms
+t=14: OSPF ['R0', 'R1', 'R3'] latency=75.0 ms | PLSR ['R0', 'R2', 'R3'] latency=50.0 ms
+
+OSPF PDR: 79.64%
+PLSR PDR: 100.00%
+Valid pLSU accepted: True
+Forged pLSU accepted: False
+
+Generated files:
+- /mnt/data/PLSR_Project_Files/figures
+- /mnt/data/PLSR_Project_Files/results
+
+STDERR:
